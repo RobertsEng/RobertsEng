@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/caesarcloud.png" width="200"/>
 
-Caesar's Commentāriī dē Bellō Gallicō -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonethless unique among historical documents for being a relatively detailed account of conquest by the conqueror.
+Caesar's Commentāriī dē Bellō Gallicō -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonethless unique among historical documents for being a relatively detailed account of conquest by the person who did the conquering.
 <!--
 **RobertsEng/RobertsEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
