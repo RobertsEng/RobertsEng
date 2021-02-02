@@ -1,8 +1,8 @@
-⚡ Fun fact: Julius Caesar produced an account of his conquest of Gaul that survives to this day. I used Python's WordCloud library to generate the top 1000 words from his commentaries and then superimposed the cloud onto a mask of an image of Nicolas Coustou's statue of Julius Caesar. 
+⚡ Fun fact: Julius Caesar produced an account of his conquest of Gaul that survives to this day. I used Python's WordCloud library to generate the top 1000 words from his commentaries (translated by William Alexander McDevitte) and then superimposed the cloud onto a mask of an image of Nicolas Coustou's statue of Julius Caesar. 
 
 <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/caesarcloud.png" width="200"/>
 
-Caesar's Commentāriī dē Bellō Gallicō -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonethless unique among historical documents for being a relatively detailed account of conquest produced by the conqueror themself.
+***Caesar's Commentāriī dē Bellō Gallicō*** -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonethless unique among historical documents for being a relatively detailed account of conquest produced by the conqueror themself.
 <!--
 **RobertsEng/RobertsEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
