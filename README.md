@@ -5,8 +5,7 @@
 </div>
 <p float="left">
   <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/caesarcloud.png" width="200" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Julius_Caesar_Coustou_Louvre.png" width="200"/> 
-  <figcaption>Image of Coustou's statue is from https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png </figcaption>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Julius_Caesar_Coustou_Louvre.png"  alt="https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png" width="200"/> 
 </p>
 
 
