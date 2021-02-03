@@ -1,5 +1,6 @@
 ⚡ Fun fact: Julius Caesar produced an account of his conquest of Gaul that survives to this day. I used Python's WordCloud library to generate the top 1000 words from his commentaries (translated by William Alexander McDevitte) and then superimposed the cloud onto a mask of an image of Nicolas Coustou's statue of Julius Caesar. 
 
+{
 <div class="div1">
 
 <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/caesarcloud.png" width="200">
