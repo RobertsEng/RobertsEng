@@ -5,11 +5,11 @@
 </div>
 <p float="left">
   <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/caesarcloud.png" width="200" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Julius_Caesar_Coustou_Louvre.png"  alt="https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png" width="200"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Julius_Caesar_Coustou_Louvre.png" width="200"/> 
 </p>
 
 
-Caesar's ***Commentāriī dē Bellō Gallicō*** -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonetheless unique among historical documents for being a relatively detailed account of conquest produced by the conqueror themself.
+Caesar's ***Commentāriī dē Bellō Gallicō*** -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonetheless unique among historical documents for being a relatively detailed account of conquest produced by the conqueror themself. (Image of Coustou's statue originally from [here.](https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png)
 <!--
 **RobertsEng/RobertsEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
