@@ -9,7 +9,9 @@
 </p>
 
 
-Caesar's ***Commentāriī dē Bellō Gallicō*** -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonetheless unique among historical documents for being a relatively detailed account of conquest produced by the conqueror themself. (Image of Coustou's statue originally from [here.](https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png))
+Caesar's ***Commentāriī dē Bellō Gallicō*** -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonetheless unique among historical documents for being a relatively detailed account of conquest produced by the conqueror themself. 
+
+(The image of Coustou's statue is originally from [here.](https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png))
 <!--
 **RobertsEng/RobertsEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
