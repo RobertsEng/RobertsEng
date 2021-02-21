@@ -4,7 +4,7 @@ I'm  a molecular biologist with specific expertise in bioinformatics. Here you c
   <https://raw.githubusercontent.com/RobertsEng/VML-RNA-seq/main/Figure%202.png" />
 </p>
 
-
+![RNA-seq Overview Figure](https://raw.githubusercontent.com/RobertsEng/VML-RNA-seq/main/Figure%202.png)
 
 
 ⚡ Fun fact: Julius Caesar produced an account of his conquest of Gaul that survives to this day. I used Python's WordCloud library to generate the top 1000 words from his commentaries (translated by William Alexander McDevitte) and then superimposed the cloud onto a mask of an image of Nicolas Coustou's statue of Julius Caesar. 
