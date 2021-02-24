@@ -24,8 +24,8 @@ Here are some images from my doctoral work, including a thread of ECM I produced
 
 </div>
 <p float="left">
- <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/ECM%20thread.png" width="200" />
-  <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/HDF.png" width="200"/> 
+ <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/ECM%20thread.png" width="500" />
+  <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/HDF.png" width="500"/> 
   </p>
 <!--
 **RobertsEng/RobertsEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
