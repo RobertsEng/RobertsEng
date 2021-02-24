@@ -10,14 +10,23 @@ Here you can see an example of my recent work from a rat study investigating bio
 
 </div>
 <p float="left">
-  <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/ECM%20thread.png" width="200" />
-  <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/HDF.png" width="200"/> 
+   <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/caesarcloud.png" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Julius_Caesar_Coustou_Louvre.png" width="200"/> 
+ 
 </p>
 
 
 Caesar's ***Commentāriī dē Bellō Gallicō*** -likely part of a propaganda campaign to boost his popularity with ordinary Romans- is nonetheless unique among historical documents for being a relatively detailed account of conquest produced by the conqueror themself. 
 
 The above image of Coustou's statue is originally from [here.](https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png)
+
+Here are some images from my doctoral work, including a thread of ECM I produced through a unique cell culture process I developed, and a pseudocolored micrograph of human dermal fibroblasts:
+
+</div>
+<p float="left">
+ <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/ECM%20thread.png" width="200" />
+  <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/HDF.png" width="200"/> 
+  </p>
 <!--
 **RobertsEng/RobertsEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
