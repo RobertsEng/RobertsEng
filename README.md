@@ -21,14 +21,6 @@ Caesar's ***Commentāriī dē Bellō Gallicō*** -likely part of a propaganda ca
 The above image of Coustou's statue is originally from [here.](https://commons.wikimedia.org/wiki/File:Julius_Caesar_Coustou_Louvre.png)
 
 
-
-Here are some images from my doctoral work, including a thread of ECM I produced through a unique cell culture process I developed, and a pseudocolored micrograph of human dermal fibroblasts:
-
-</div>
-<p float="left">
- <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/ECM%20thread.png" width="500" />
-  <img src="https://raw.githubusercontent.com/RobertsEng/RobertsEng/main/HDF.png" width="500"/> 
-  </p>
 <!--
 **RobertsEng/RobertsEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
